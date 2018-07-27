@@ -13,16 +13,11 @@
     url: /dropdown-A/content-B/
   - title: Content C
     url: /dropdown-A/content-C/
-- title: Dropdown B
-  url: /dropdown-B/content-A/
-  sub-links:
-  - title: Content B
-    url: /dropdown-B/content-A/
-  - title: Content B
-    url: /dropdown-B/content-B/
 - title: Page A
   url: /page-A/
 - title: Page B
   url: /page-B/
-- title: Who We Are
-  url: /who-we-are/
+- title: Page C
+  url: /page-C/
+- title: Page D
+  url: /page-C/

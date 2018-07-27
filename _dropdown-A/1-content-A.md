@@ -6,7 +6,14 @@ breadcrumb: Content A
 collection_name: dropdown-A
 ---
 
+**bold this text**
+*italic this text*
+
+##### Test H5
+#### Test H4
 ### **Lorem ipsum dolor**
+## Test H2
+# Test H1
 
 Lorem ipsum dolor sit amet, usu te graeco viderer, eu duis convenire corrumpit has. Vel accumsan scaevola ei, qui munere eripuit in. Petentium accusamus gloriatur usu et, maiorum singulis vim et. Adhuc dicunt at quo. Eu illud recteque mediocrem pri, ius adhuc consulatu vituperatoribus an. Discere alienum disputationi id vis, eu eirmod sensibus per, vel justo tacimates id.
 
