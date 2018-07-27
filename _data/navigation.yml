@@ -4,10 +4,9 @@
 #                                #
 ##################################
 
-- title: DROPDOWN A
-  url: /dropdown-A/content-A/
+- title: Volunteer Opportunities
   sub-links:
-  - title: Content A
+  - title: Home Team Connection
     url: /dropdown-A/content-A/
   - title: Content B
     url: /dropdown-A/content-B/
