@@ -29,6 +29,6 @@ key-highlights:
     url: /dropdown-A/content-C/
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+#button:
+ # - text: Learn More
+  #  url: /who-we-are/
