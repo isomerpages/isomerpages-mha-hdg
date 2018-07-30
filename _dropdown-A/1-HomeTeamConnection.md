@@ -27,43 +27,43 @@ The various Boards, Councils or Committees may also have their respective indivi
 ## Boards / Councils / Committees
 
 #### Anti-Inhalant Abuse Centre Review Committee
-Appeals Advisory Committee (Remote Gambling)
-Board of Visitors (Community Rehabilitation Centre)
-Board of Visitors (Drug Rehabilitation Centres and Anti-Inhalant Abuse Centres)
-Board of Visitors for SCDF & SPF Detention Barracks
-Board of Visiting Justices and Board of Inspection
-Casino Regulatory Authority Board
-Citizenship Committee of Inquiry
-Criminal Law Advisory Committees (Hearing)
-Criminal Law Advisory Committee (Review)
-Criminal Law Review Board
-Drug Rehabilitation Centres Review Committee I-II
-Employment Release Selection Committee
-External Placement Review Board
-Fire Safety Appeals Advisory Board
-Fire Safety Engineers Inquiry Panel
-Home Detention Advisory Committees
-Home Team Corps Council
-HomeTeam NS Board of Governors
-HomeTeam NS Development Masterplan Advisory Group
-Home Team Volunteer Network Steering Committee
-Independent Review Panel
-Industrial and Services Co-operative Society Limited - Board of Directors
-Industrial and Services Co-operative Society Limited - Board of Trustees
-Institutional Discipline Advisory Committees
-INVEST Board of Trustees
-Liquor Appeal Board
-Long Imprisonment Review Board
-Medical Advisory Committee
-Medical Advisory Panel
-National Council Against Drug Abuse
-National Crime Prevention Council
-National Fire and Civil Emergency Preparedness Council
-Public Entertainment Appeal Board
-Reformative Training Centre Advisory Committee
-Registered Inspectors Inquiry Panel
-Singapore Corporation of Rehabilitative Enterprises Board
-Singapore Road Safety Council
-The Life Imprisonment Review Board
-The President’s Pleasure Review Board
-Yellow Ribbon Fund Board
+#### Appeals Advisory Committee (Remote Gambling)
+#### Board of Visitors (Community Rehabilitation Centre)
+#### Board of Visitors (Drug Rehabilitation Centres and Anti-Inhalant Abuse Centres)
+#### Board of Visitors for SCDF & SPF Detention Barracks
+#### Board of Visiting Justices and Board of Inspection
+#### Casino Regulatory Authority Board
+#### Citizenship Committee of Inquiry
+#### Criminal Law Advisory Committees (Hearing)
+#### Criminal Law Advisory Committee (Review)
+#### Criminal Law Review Board
+#### Drug Rehabilitation Centres Review Committee I-II
+#### Employment Release Selection Committee
+#### External Placement Review Board
+#### Fire Safety Appeals Advisory Board
+#### Fire Safety Engineers Inquiry Panel
+#### Home Detention Advisory Committees
+#### Home Team Corps Council
+#### HomeTeam NS Board of Governors
+#### HomeTeam NS Development Masterplan Advisory Group
+#### Home Team Volunteer Network Steering Committee
+#### Independent Review Panel
+#### Industrial and Services Co-operative Society Limited - Board of Directors
+#### Industrial and Services Co-operative Society Limited - Board of Trustees
+#### Institutional Discipline Advisory Committees
+#### INVEST Board of Trustees
+#### Liquor Appeal Board
+#### Long Imprisonment Review Board
+#### Medical Advisory Committee
+#### Medical Advisory Panel
+#### National Council Against Drug Abuse
+#### National Crime Prevention Council
+#### National Fire and Civil Emergency Preparedness Council
+#### Public Entertainment Appeal Board
+#### Reformative Training Centre Advisory Committee
+#### Registered Inspectors Inquiry Panel
+#### Singapore Corporation of Rehabilitative Enterprises Board
+#### Singapore Road Safety Council
+#### The Life Imprisonment Review Board
+#### The President’s Pleasure Review Board
+#### Yellow Ribbon Fund Board
