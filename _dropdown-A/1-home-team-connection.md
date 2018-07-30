@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Home Team Connection
-permalink: /dropdown-A/HomeTeamConnection/
+permalink: /dropdown-A/home-team-connection/
 breadcrumb: Home Team Connection
-collection_name: HomeTeamConnection
+collection_name: dropdown-A
 ---
 
 ## Home Team Connection 
