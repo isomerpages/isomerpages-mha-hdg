@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Content A
-permalink: /dropdown-A/content-A/
-breadcrumb: Content A
-collection_name: dropdown-A
+title: Home Team Connection
+permalink: /dropdown-A/HomeTeamConnection/
+breadcrumb: Home Team Connection
+collection_name: HomeTeamConnection
 ---
 
 **bold this text**
