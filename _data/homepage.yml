@@ -14,9 +14,9 @@ hero-banner: /pages/images/homepage.jpg
 
 
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Learning Journey
+    description: Learning Journey to Marina Bay Firestation
+    url: /page-A/
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
