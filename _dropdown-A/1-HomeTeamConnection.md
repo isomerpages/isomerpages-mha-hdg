@@ -27,7 +27,13 @@ The various Boards, Councils or Committees may also have their respective indivi
 ## Boards / Councils / Committees
 
 #### Anti-Inhalant Abuse Centre Review Committee
-#### Appeals Advisory Committee (Remote Gambling)
+
+The Anti-inhalant Abuse Centre Review Committee (AIACRC) is appointed by the Minister for Home Affairs. to decide the cases of inhalant abusers who are undergoing treatment and rehabilitation at the approved Anti-Inhalant Abuse Centre on their suitability for discharge.
+
+##### Appeals Advisory Committee (Remote Gambling)
+
+The Appeals Advisory Committee (Remote Gambling) is appointed by the Minister for Home Affairs. The Committee reviews appeals on access blocking orders or payment blocking orders, and provides advice to the Minister.
+
 #### Board of Visitors (Community Rehabilitation Centre)
 #### Board of Visitors (Drug Rehabilitation Centres and Anti-Inhalant Abuse Centres)
 #### Board of Visitors for SCDF & SPF Detention Barracks
