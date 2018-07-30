@@ -12,18 +12,6 @@ hero-title: Home Team Volunteer Network
 hero-subtitle: Ordinary People Extraordinary Mission
 hero-banner: /pages/images/homepage.jpg
 
-<div class="bp-youtube">
- <iframe src="https://www.youtube.com/embed/
- qAZ9xcGwNGQ" frameborder="0" allow="autoplay;
- encrypted-media" allowfullscreen>
- </iframe>
-</div>
-Format:
-<div class="bp-youtube">
- <COPY FROM YOUTUBE>
-</div>
-
-<iframe width="1048" height="150" src="https://www.youtube.com/embed/qAZ9xcGwNGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 key-highlights:
   - title: Highlight A
@@ -41,7 +29,7 @@ key-highlights:
     description: Dropdown A Content C is v important
     url: /dropdown-A/content-C/
 
-#Call to Action Button
-#button:
- # - text: Learn More
-  #  url: /who-we-are/
+Call to Action Button
+button:
+ - text: Volunteer with us and embark on an Extraordinary Mission! 
+   url: https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fwww.htvn.mha.gov.sg%252FHTVMS%26Target%3Dhttps%253A%252F%252Fwww.htvn.mha.gov.sg%252FHTVMS%252Fsplogin%26NameIdFormat%3DEmail%26esrvcID%3DMHA-HT-VMS&TAM_OP=login
