@@ -6,6 +6,9 @@ breadcrumb: Page A
 ---
 
 ### **Simple Page A**
+*test*
+# h1
+## **h2 bold**
 hello
 hello
 
