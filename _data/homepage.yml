@@ -7,10 +7,12 @@
 # Agency logo
 agency-logo: /pages/images/htvn_logo.png
 
+
 # Hero Banner
 hero-title: Home Team Volunteer Network
 hero-subtitle: Ordinary People Extraordinary Mission
-hero-banner: /pages/images/homepage.jpg
+hero-banner: /pages/images/HDG home page.jpg
+    
 
 key-highlights:
   - title: Learning Journey
