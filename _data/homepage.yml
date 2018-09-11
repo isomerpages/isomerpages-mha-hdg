@@ -28,9 +28,9 @@ key-highlights:
   - title: About Us
     description: Dropdown A Content C is v important
     url: /page-A/
- # - title: About Us
-  #  description: Dropdown A Content C is v important
-   # url: /dropdown-A/content-C/
+  - title: About Us
+    description: Dropdown A Content C is v important
+   url: /dropdown-A/content-C/
 
 # Call to Action Button
 # button:
