@@ -14,15 +14,15 @@ hero-banner: /pages/images/HDG home page.jpg
     
 
 key-highlights:
-  - title: Learning Journey
-    description: Learning Journey to Marina Bay Firestation
+  - title: Journey of Faith
     url: /page-A/
+    # description: 
     external: true
-  - title: HTVN Tracker Watch
-    description: Stand a chance to win a limited edition HTVN Tracker Watch
+  - title: Seeking what is common
+    # description: 
     url: /page-B/
     external: true
-  - title: Stories of our Home Team Volunteers 
+  - title: Many Faiths, One People
     description: Download the eBook here
     url: /page-A/
   - title: About Us
