@@ -5,20 +5,14 @@
 ##################################
 
 - title: About the Gallery
-  sub-links:
-  - title: Home Team Connection
-    url: /dropdown-A/HomeTeamConnection/
-  - title: Police
-    url: /dropdown-A/content-B/
-  - title: Civil Defence
-    url: /dropdown-A/content-C/
-  - title: Prisons
-    url: /dropdown-A/content-C/
-  - title: Score
-    url: /dropdown-A/content-C/
-- title: About Us
   url: /page-A/
-- title: Volunteer Appreciation
+- title: Journey of Faith
   url: /page-B/
-- title: Photo Gallery
+- title: Seeking What is Common
+  url: /page-B/
+- title: Many Faiths, One People
+  url: /page-C/
+- title: We, the People of Singapore
+  url: /page-C/
+  - title: Visit Us
   url: /page-C/
