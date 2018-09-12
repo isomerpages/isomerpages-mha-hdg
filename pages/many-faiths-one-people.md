@@ -2,7 +2,7 @@
 layout: simple-page
 title: GALLERY THREE: MANY FAITHS, ONE PEOPLE
 permalink: /many-faiths-one-people/
-breadcrumb: MANY FAITHS, ONE PEOPLE
+breadcrumb: MANY FAITHS ONE PEOPLE
 ---
 
 ### **Test text here**
