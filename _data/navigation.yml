@@ -6,18 +6,13 @@
 
 - title: About the Gallery
   url: /page-A/
-  
-#- title: Journey of Faith
- # url: /page-B/
-  
-#- title: Seeking What is Common
- # url: /page-C/
-  
-#- title: Many Faiths One People
- # url: /page-d/
-  
-#- title: We the People of Singapore
- # url: /page-e/
-  
-#- title: Visit Us
-  #url: /page-f/
+- title: Journey of Faith
+  url: /page-B/
+- title: Seeking What is Common
+  url: /page-C/
+- title: Many Faiths One People
+  url: /page-d/
+- title: We the People of Singapore
+  url: /page-e/
+- title: Visit Us
+  url: /page-f/
