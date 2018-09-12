@@ -15,7 +15,7 @@ hero-banner: /pages/images/HDG home page.jpg
 
 key-highlights:
   - title: Journey of Faith
-    url: /page-A/
+    url: [here](#journeyoffaith)
     # description: 
     # external: true
 
@@ -33,9 +33,10 @@ key-highlights:
     #description: Dropdown A Content C is v important
   
   - title: Visit Us
-    description: Dropdown A Content C is v important
-   url: /dropdown-A/content-C/
-
+    url: /
+    # description: Dropdown A Content C is v important
+    
+    
 # Call to Action Button
 # button:
 # - text: Book A Visit
