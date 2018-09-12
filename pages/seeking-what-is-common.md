@@ -1,11 +1,11 @@
 ---
 layout: simple-page
-title: GALLERY TWO SEEKING WHAT IS COMMON
+title: SEEKING WHAT IS COMMON
 permalink: /seeking-what-is-common/
 breadcrumb: SEEKING WHAT IS COMMON
 ---
 
-### **Lorem ipsum dolor**
+### **GALLERY TWO: SEEKING WHAT IS COMMON**
 
 This gallery explores the threads of commonality woven into Singapore's rich religious tapestry. Visitors learn how our faith communities have contributed to Singapore's development in the common spirit of doing good and how each religion's cherished values and practices are shared and similarly expressed across other faiths. Recognising the importance of finding and emphasising common ground is a key step to fostering mutual understanding and respect.
 
