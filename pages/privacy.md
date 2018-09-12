@@ -20,5 +20,7 @@ breadcrumb: Privacy
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
 7. Please contact MHA Feedback Unit - mha_feedback@mha.gov.sg
-  a. For any enquires or feedback on our data protection policies and procedures,
-  b. If you require more information on or access to the data which you have earlier provided to us.
+
+   a. For any enquires or feedback on our data protection policies and procedures,
+
+   b. If you require more information on or access to the data which you have earlier provided to us.
