@@ -2,17 +2,13 @@
 layout: simple-page
 title: GALLERY TWO: SEEKING WHAT IS COMMON
 permalink: /seeking-what-is-common/
-breadcrumb: Page C
+breadcrumb: SEEKING WHAT IS COMMON
 ---
 
 ### **Lorem ipsum dolor**
 
-Lorem ipsum dolor sit amet, usu te graeco viderer, eu duis convenire corrumpit has. Vel accumsan scaevola ei, qui munere eripuit in. Petentium accusamus gloriatur usu et, maiorum singulis vim et. Adhuc dicunt at quo. Eu illud recteque mediocrem pri, ius adhuc consulatu vituperatoribus an. Discere alienum disputationi id vis, eu eirmod sensibus per, vel justo tacimates id.
+This gallery explores the threads of commonality woven into Singapore's rich religious tapestry. Visitors learn how our faith communities have contributed to Singapore's development in the common spirit of doing good and how each religion's cherished values and practices are shared and similarly expressed across other faiths. Recognising the importance of finding and emphasising common ground is a key step to fostering mutual understanding and respect.
 
-Fastidii dissentias ex sit, mea id nemore expetenda persequeris. Pro te diam noster signiferumque, voluptua legendos scripserit an pro. Aeque adipisci per et, congue praesent vis ad, eos cu docendi percipitur. Ne sea sonet aeterno, cu ipsum dignissim dissentias mel.
+There have been occasions when our social cohesion and harmony have been tested. This gallery examines the dangers of accentuated religious differences and a lack of interfaith understanding. A multimedia exhibit brings the Maria Hertogh Riots to life, highlighting the causes and lessons of the riots.
 
-Accumsan quaerendum ius ei. Ius amet percipit patrioque at, sea utamur mnesarchum et. Mei te quis iuvaret detracto. Has nihil quando appellantur in, et eum wisi ridens atomorum. Id scripta voluptua voluptaria vix, cetero ponderum sea ut.
-
-Et postea disputando eos, nec ei veri gubergren, aperiam voluptua facilisi id quo. Est aeque saepe commodo te, ea vim modo falli interesset. Rebum velit fierent ex est, cu quis civibus epicuri sit, enim mutat has et. Case epicuri detraxit est ex. Sea et iuvaret admodum propriae.
-
-Probo novum tritani mel et. Wisi consulatu duo ea. Fabulas deleniti an per. Propriae explicari vituperata duo ea, pro ei vidisse fuisset constituam. At quem phaedrum cotidieque mea, an mei solet probatus, oratio sensibus nec cu. Ne prima feugait mea. Id sed vidit consectetuer, ea eos dicat putent honestatis.
+Will we let our differences divide us or our commonalities unite us?
