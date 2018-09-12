@@ -15,20 +15,33 @@ breadcrumb: Terms of Use
 #### PROPRIETARY RIGHTS
 
 3. This Site is the official Harmony in Diversity Gallery website. It is owned and operated by the Ministry of Home Affairs (MHA).
-The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MHA.
-PRIVACY STATEMENT
-Click here to review this Site Privacy Statement.
-RESTRICTIONS ON USE OF CONTENTS
-Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of MHA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. MHA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
-Modification of any of the Contents or use of the Contents for any other purpose will be a violation of MHA's copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of MHA.
-DISCLAIMER OF WARRANTIES AND LIABILITY
-The Contents of this Site are provided on an "as is" basis without warranties of any kind. Without prejudice to the foregoing, MHA does not make any representations or warranties:
-as to the accuracy, completeness, reliability, timeliness, currency, quality, non-infringement, title, or fitness for any particular purpose of the Contents of this Site;
-that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
-MHA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.
-MHA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
-RIGHT OF ACCESS
-MHA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
+
+4. The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MHA.
+
+#### PRIVACY STATEMENT
+
+5. Click here to review this Site Privacy Statement.
+
+#### RESTRICTIONS ON USE OF CONTENTS
+
+6. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of MHA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. MHA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+
+7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of MHA's copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of MHA.
+
+#### DISCLAIMER OF WARRANTIES AND LIABILITY
+
+8. The Contents of this Site are provided on an "as is" basis without warranties of any kind. Without prejudice to the foregoing, MHA does not make any representations or warranties:
+
+a. as to the accuracy, completeness, reliability, timeliness, currency, quality, non-infringement, title, or fitness for any particular purpose of the Contents of this Site;
+
+b. that the Contents available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Site and the server is and will be free of all viruses and/or other harmful elements.
+
+c. MHA shall also not be liable for any damage, loss or expense of any kind arising directly or indirectly from the use of the Site, any inaccuracy or incompleteness in the Contents of the Site, or any errors or omissions in the transmission of the Contents.
+
+d. MHA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
+
+#### RIGHT OF ACCESS
+9. MHA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
 LINKS "FROM" THIS SITE TO OTHER WEBSITES
 This Site contains hyperlinks to websites which are not maintained by MHA. MHA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
 Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
