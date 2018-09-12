@@ -15,21 +15,21 @@ hero-banner: /pages/images/HDG home page.jpg
 
 key-highlights:
   - title: Journey of Faith
-    url: /page-B/
+    url: /journey-of-faith/
     description: 
     external:
   - title: Seeking what is common
-    url: /page-B/
+    url: /seeking-what-is-common/
     description: 
     external:
   - title: Many Faiths, One People
-    url: /page-C/
+    url: /many-faiths-one-people/
     description:
   - title: We, the People of Singapore
-    url: /page-D/
+    url: /we-the-people-of-singapore/
     description:
   - title: Visit Us
-    url: /page-E/
+    url: /visit-us/
     description:
     
     
