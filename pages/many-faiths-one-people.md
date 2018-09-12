@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Page D
-permalink: /page-D/
-breadcrumb: Page D
+title: GALLERY THREE: MANY FAITHS, ONE PEOPLE
+permalink: /many-faiths-one-people/
+breadcrumb: MANY FAITHS, ONE PEOPLE
 ---
 
 ### **Test text here**
