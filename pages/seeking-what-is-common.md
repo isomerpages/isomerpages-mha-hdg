@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Page C
-permalink: /page-C/
+title: GALLERY TWO: SEEKING WHAT IS COMMON
+permalink: /seeking-what-is-common/
 breadcrumb: Page C
 ---
 
