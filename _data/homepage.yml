@@ -17,18 +17,22 @@ key-highlights:
   - title: Journey of Faith
     url: /page-A/
     # description: 
-    external: true
+    # external: true
+
   - title: Seeking what is common
-    # description: 
     url: /page-B/
-    external: true
+    # description: 
+    #external: true
+  
   - title: Many Faiths, One People
-    description: Download the eBook here
-    url: /page-A/
-  - title: About Us
-    description: Dropdown A Content C is v important
-    url: /page-A/
-  - title: About Us
+    url: /page-C/
+    #description: Download the eBook here
+  
+  - title: We, the People of Singapore
+    url: /page-D/
+    #description: Dropdown A Content C is v important
+  
+  - title: Visit Us
     description: Dropdown A Content C is v important
    url: /dropdown-A/content-C/
 
