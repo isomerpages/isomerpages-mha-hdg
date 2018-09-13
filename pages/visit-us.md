@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /contact-us/
-breadcrumb: Contact Us
-title: Contact Us
+permalink: /visit-us/
+breadcrumb: Visit Us
+title: Visit Us
 ---
 
 ### **HQ Address**
