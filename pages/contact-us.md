@@ -20,7 +20,10 @@ Closed on Sundays and Public Holidays <br>
 ### **Admission**
 Admission is free
 Prior booking is required for all group or school visits with more than 20 people.
-Guided tours are available by appointment only and subjected to availability 
+Guided tours are available by appointment only and subjected to availability
+
+### **Book A Visit**
+[* Book A Visit](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
 
 ### **Contact Us**
 #### General Enquiries & Feedback
