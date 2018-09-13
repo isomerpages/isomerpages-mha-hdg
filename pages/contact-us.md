@@ -6,21 +6,23 @@ title: Contact Us
 ---
 
 ### **HQ Address**
-Address: Yellow Brick Road <br>
-1 Wizard of Oz Land <br>
-Singapore 123456
+Ministry of National Development (MND) Building Annexe B
+7 Maxwell Road, #04-05/06, Singapore 069111
+(Above Amoy Street Food Centre)
 
 Directions: [Map](https://www.onemap.sg/main/v2/?lat=1.30366583776968&lng=103.823998391692)
 
-### **Operating Hours**
-Mon - Fri <br>
-8.30am - 6.00pm <br>
-Closed on Weekends and Public Holidays <br>
+### **Gallery Opening Hours**
+Mondays - Saturday <br>
+10.00am - 5.00pm <br>
+Closed on Sundays and Public Holidays <br>
+
+### **Admission**
+Admission is free
+Prior booking is required for all group or school visits with more than 20 people.
+Guided tours are available by appointment only and subjected to availability 
 
 ### **Contact Us**
 #### General Enquiries & Feedback
-+65 1234 5678 <br>
-[test@fictitious.email.sg](mailto:test@fictitious.email.sg)
-
-#### Fax
-+65 1234 5678
+Tel: 6221 8942 <br>
+[MHA_HDG@mha.gov.sg](mailto:MHA_HDG@mha.gov.sg)
