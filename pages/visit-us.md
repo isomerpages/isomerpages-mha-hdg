@@ -23,4 +23,4 @@ Admission is free
 Prior booking is required for all group or school visits with more than 20 people.
 Guided tours are available by appointment only and subjected to availability
 
-[* Book A Visit](https://form.gov.sg/forms/mha/5b99d7cf0a043d000f7a2c89){:target="_blank"}
+[* Book A Visit](https://form.gov.sg/forms/mha/5bab41b04e2ef2000f8f2a4d){:target="_blank"}
