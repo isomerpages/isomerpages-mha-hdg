@@ -363,3 +363,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-masthead {
   visibility: hidden;
 }
+
+.navbar-item img {
+  height: 150px;
+}
