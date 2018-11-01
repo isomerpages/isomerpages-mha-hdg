@@ -44,10 +44,7 @@ breadcrumbs:
 collections:
   careers:
     output: true
-  who-we-are:
-    output: true
-  products-and-services:
-    output: true
+
 
 
 # Site configuration
