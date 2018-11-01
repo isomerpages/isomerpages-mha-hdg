@@ -9,7 +9,7 @@
 
 # Hero Banner
  hero-title: Harmony in Diversity Gallery
- hero-subtitle: The Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity.
+ hero-subtitle: The Harmony in Diversity Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity.
  hero-banner: /pages/images/HDG home page.jpg
  
  key-highlights:
@@ -21,3 +21,8 @@
     url: /seeking-what-is-common/
     description: 
     external:
+# Call to Action Button
+ button:
+  - text: Visit Us
+    url: /visit-us/
+    
