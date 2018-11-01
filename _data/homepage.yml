@@ -21,6 +21,16 @@
     url: /seeking-what-is-common/
     description: 
     external:
+ - title: Many Faiths, One People
+    url: /many-faiths-one-people/
+    description:
+  - title: We, the People of Singapore
+    url: /we-the-people-of-singapore/
+    description:
+  - title: Visit Us
+    url: /visit-us/
+    description:
+
 # Call to Action Button
  button:
   - text: Visit Us
