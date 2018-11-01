@@ -38,3 +38,10 @@
   - text: Visit Us
     url: /visit-us/
     
+    # Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /visit-us/
