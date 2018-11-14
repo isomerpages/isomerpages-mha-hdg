@@ -3,6 +3,7 @@ layout: simple-page
 title: Journey of Faith
 permalink: /journey-of-faith/
 breadcrumb: Journey of Faith
+![Journey of Faith]({{"pages/images/slidebanner/slidebanner1.jpg" | absolute_url }})
 ---
 
 ### **GALLERY ONE: JOURNEY OF FAITH**
