@@ -24,3 +24,9 @@ Prior booking is required for all group or school visits with more than 20 peopl
 Guided tours are available by appointment only and subjected to availability
 
 [* Book A Visit](https://form.gov.sg/forms/mha/5bab41b04e2ef2000f8f2a4d){:target="_blank"}
+
+### **Visitor Policies & Gallery Etiquette**
+
+#### **Food & Beverage**
+Food and drink (including bottled water) are not permitted in the Gallery.
+
