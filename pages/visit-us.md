@@ -28,6 +28,7 @@ Guided tours are available by appointment only and subjected to availability
 ### **Visitor Policies & Gallery Etiquette**
 
 **Food & Beverage**
+
 Food and drink (including bottled water) are not permitted in the Gallery.
 
 **Security**
