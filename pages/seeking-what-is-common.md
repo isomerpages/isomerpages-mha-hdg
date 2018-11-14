@@ -3,6 +3,7 @@ layout: simple-page
 title: SEEKING WHAT IS COMMON
 permalink: /seeking-what-is-common/
 breadcrumb: SEEKING WHAT IS COMMON
+image: "/pages/images/slidebanner/slidebanner1.jpg"
 ---
 
 ### **GALLERY TWO: SEEKING WHAT IS COMMON**
