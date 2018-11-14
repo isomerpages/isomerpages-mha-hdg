@@ -41,11 +41,6 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-collections:
-  galleries:
-    output: true
-
-
 
 # Site configuration
 ####################
