@@ -11,7 +11,7 @@ breadcrumb: MANY FAITHS ONE PEOPLE
 Singapore's common spaces - places where people of different races and faiths interact and create shared experiences - are a central building block of religious peace and harmony. Here, diverse places of worship coexist peacefully and positive interfaith interactions are not uncommon. However, our high-density urban environment invariably creates friction. This gallery takes a look at some of our common spaces and considers what the state, the community and the individual can do to protect them.
 
 ### **GALLERY HIGHLIGHTS**
-![Gallery 3 highlights]({{"/pages/images/G3 main pic.JPG" | absolute_url }})
+![Gallery 3 highlights]({{"/pages/images/G3 highlights.jpg" | absolute_url }})
 
 **Be part of the picture:** <br/>
 Take a photo with a trick eye mural of a local coffee shop, an important example of common space where Singaporeans of all races and creeds interact.
