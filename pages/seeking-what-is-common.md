@@ -14,6 +14,7 @@ There have been occasions when our social cohesion and harmony have been tested.
 Will we let our differences divide us or our commonalities unite us?
 
 #### **GALLERY HIGHLIGHTS**
+![Seeking What is Common]({{"/pages/images/G2 highlights.JPG" | absolute_url }})
 
 **Travel Back in Time:** </br>
 Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.
