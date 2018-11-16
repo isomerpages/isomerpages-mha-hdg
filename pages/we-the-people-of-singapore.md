@@ -11,6 +11,7 @@ In this final gallery, visitors are invited to reflect on the role we can play i
 
 > GALLERY HIGHLIGHTS <br/>
 
+
 ![Gallery 4 overview]({{"/pages/images/G4 highlights_v2.JPG" | absolute_url }})
 
 **Make a Difference:** <br/>
