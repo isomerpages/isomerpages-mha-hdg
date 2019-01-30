@@ -8,8 +8,15 @@
  agency-logo: /pages/images/HDGLogo.jpg
 
 # Hero Banner
+<style>
+shadow {
+  colour: white;
+  text-shadow: 2px 2px black;
+}
+</style>
+
  hero-title: Harmony in Diversity Gallery
- hero-subtitle: The Harmony in Diversity Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity.
+ hero-subtitle: <shadow> The Harmony in Diversity Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity. </shadow>
  hero-banner: /pages/images/Header_Image.JPG
  
  key-highlights:
