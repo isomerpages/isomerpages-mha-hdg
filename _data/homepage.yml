@@ -46,3 +46,11 @@ info-sections:
     section-more-button: API References
     section-more-button-url: /citizens/
     section-image-path: /images/digital-transformation/govtech-hive.jpg
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: About the Gallery
+programmes-subtitle:
+programmes-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nuture and strengthen the religious peace and harmony we enjoy today.
+# programmes-more-button: More Products and Services
+# programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
