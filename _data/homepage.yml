@@ -50,5 +50,5 @@ info-sections:
 # Resources Section
 resources-title: About the Gallery
 resources-subtitle: About the Gallery
-# resources-more-button: More Media
-# resources-more-button-url: /media/
+resources-more-button: Hello World
+resources-more-button-url: /images
