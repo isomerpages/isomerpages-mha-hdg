@@ -1,5 +1,5 @@
 - title: About the Gallery
   category: ABOUT THE GALLERY
-  desc: Hello World.
-#  img: images/programmes/products-and-services/BeeLine.png
-  bg-color: bg-beeline
+  desc: Hello World
+  img: /pages/images/HDGLogo.png
+  bg-color: white
