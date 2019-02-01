@@ -15,24 +15,25 @@
  key-highlights:
   - title: Journey of Faith
     url: /journey-of-faith/
-#    description: 
-#    external: 
+    description: 
+    external: 
   - title: Seeking what is common
     url: /seeking-what-is-common/
-#    description: 
-#    external: 
+    description: 
+    external: 
   - title: Many Faiths, One People
     url: /many-faiths-one-people/
-#    description: 
-#    external: 
+    description: 
+    external: 
   - title: We, the People of Singapore
     url: /we-the-people-of-singapore/
-#    description: 
-#    external: 
+    description: 
+    external: 
   - title: Visit Us
     url: /visit-us/
-#    description: 
-#    external: 
+    description: 
+    external: 
+
 # Call to Action Button
  button:
   - text: Visit Us
@@ -49,9 +50,9 @@
 
 # Programmes Sections
 # To edit the programme details, go to programmes.yml
-programmes-title: Products and Services
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-title: hello programmes
+programmes-subtitle: 
+programmes-description: hello world
 programmes-more-button: Hello World
 programmes-more-button-url: /about-the-gallery/
     
