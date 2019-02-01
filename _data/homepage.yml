@@ -39,20 +39,19 @@
     url: /visit-us/
     
 # Info Sections
-info-sections:
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: API References
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
+# info-sections:
+#   - section-title: Users
+#     section-subtitle: Hassle-free registration
+#     section-description: We streamline your user registration process by removing your need for password and user management.
+#     section-more-button: API References
+#     section-more-button-url: /citizens/
+#     section-image-path: /images/digital-transformation/govtech-hive.jpg
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-sections:
-  - programmes-title: Products and Services
-    programmes-subtitle: Co-creating for better value
-    programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-    programmes-more-button: Hello World
-    programmes-more-button-url: /about-the-gallery/
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: Hello World
+programmes-more-button-url: /about-the-gallery/
     
