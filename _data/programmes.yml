@@ -1,5 +1,5 @@
-- title: About the Gallery
-  category: ABOUT THE GALLERY
-  desc: Hello World
+- title: hello world in programmes.yml
+  category: hello world in programmes.yml
+  desc: hello world in programmes.yml
   img: /pages/images/HDGLogo.png
-  bg-color: bg-primary
+  bg-color: bg-beeline
