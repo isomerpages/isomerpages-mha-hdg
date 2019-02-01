@@ -47,8 +47,10 @@ info-sections:
     section-more-button-url: /citizens/
     section-image-path: /images/digital-transformation/govtech-hive.jpg
 
-# Resources Section
-resources-title: About the Gallery
-resources-subtitle: About the Gallery
-resources-more-button: Hello World
-resources-more-button-url: /images
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: Hello World
+programmes-more-button-url: /visit-us/
