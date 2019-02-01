@@ -15,24 +15,24 @@
  key-highlights:
   - title: Journey of Faith
     url: /journey-of-faith/
-    description: hello world
-    external: true
+#    description: 
+#    external: 
   - title: Seeking what is common
     url: /seeking-what-is-common/
-    description: 
-    external: 
+#    description: 
+#    external: 
   - title: Many Faiths, One People
     url: /many-faiths-one-people/
-    description: 
-    external: 
+#    description: 
+#    external: 
   - title: We, the People of Singapore
     url: /we-the-people-of-singapore/
-    description: 
-    external: 
+#    description: 
+#    external: 
   - title: Visit Us
     url: /visit-us/
-    description: 
-    external: 
+#    description: 
+#    external: 
 # Call to Action Button
  button:
   - text: Visit Us
