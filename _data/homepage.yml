@@ -15,8 +15,8 @@
  key-highlights:
   - title: Journey of Faith
     url: /journey-of-faith/
-    description: 
-    external: 
+    description: hello world
+    external: true
   - title: Seeking what is common
     url: /seeking-what-is-common/
     description: 
