@@ -1,15 +1,15 @@
 ---
 layout: simple-page
-title: WE THE PEOPLE OF SINGAPORE
+title: WE, THE PEOPLE OF SINGAPORE
 permalink: /we-the-people-of-singapore/
 breadcrumb: WE THE PEOPLE OF SINGAPORE
 ---
 
-### **GALLERY FOUR: WE, THE PEOPLE OF SINGAPORE**
+### **Gallery Four: We, The People of Singapore**
 
 In this final gallery, visitors are invited to reflect on the role we can play in helping to sustain a harmonious Singapore. Challenge yourself to make a personal commitment to preserving this precious legacy and share your pledge to inspire others.
 
-> GALLERY HIGHLIGHTS <br/>
+> Gallery Highlights <br/>
 
 
 ![Gallery 4 overview]({{"/pages/images/G4 highlights_v2.JPG" | absolute_url }})
