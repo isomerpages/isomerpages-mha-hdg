@@ -5,8 +5,9 @@ breadcrumb: Visit Us
 title: Visit Us
 ---
 
-### **HQ Address**
-Ministry of National Development (MND) Building Annexe B
+### **Address**
+Ministry of National Development (MND) Building
+Annexe B
 7 Maxwell Road, #04-05/06, Singapore 069111
 (Above Amoy Street Food Centre)
 
@@ -20,26 +21,31 @@ Closed on Sundays and Public Holidays <br>
 
 ### **Admission**
 Admission is free
-Prior booking is required for all group or school visits with more than 20 people.
-Guided tours are available by appointment only and subjected to availability
+Prior booking is required for all group or school visits
+with more than 20 people. Guided tours are 
+available by appointment only and subjected to
+availability
 
 [* Book A Visit](https://form.gov.sg/forms/mha/5bab41b04e2ef2000f8f2a4d){:target="_blank"}
 
 ### **Visitor Policies & Gallery Etiquette**
 
 **Food & Beverage**
-
 Food and drink (including bottled water) are not permitted in the Gallery.
 
 **Security**
-
 Bags may be subjected to inspection for security reasons.
 
 **Photography**
-
 No flash photography is permitted in the Gallery
 
 **Consideration for Others**
 Please speak in soft tones
-Avoid running in the Gallery, and do not obstruct the passage of other visitors.
-Our staff have the right to work in a safe environment free from violence, abuse or threatening behaviour. The Gallery reserves the right to remove any person acting in an unacceptable manner.
+Avoid running in the Gallery, and do not obstruct the
+passage of other visitors.
+
+Our staff have the right to work in a safe
+environment free from violence, abuse or 
+threatening behaviour. The Gallery reserves the right
+to remove any person acting in an unacceptable 
+manner.
