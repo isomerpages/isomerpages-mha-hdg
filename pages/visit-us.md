@@ -40,7 +40,7 @@ Bags may be subjected to inspection for security reasons.
 No flash photography is permitted in the Gallery
 
 **Consideration for Others**
-Please speak in soft tones
+Please speak in soft tones.
 Avoid running in the Gallery, and do not obstruct the
 passage of other visitors.
 
