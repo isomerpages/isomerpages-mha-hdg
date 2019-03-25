@@ -49,3 +49,21 @@ environment free from violence, abuse or
 threatening behaviour. The Gallery reserves the right
 to remove any person acting in an unacceptable 
 manner.
+
+**Getting to the Gallery**
+<table class="table-h">
+  <tr>
+    <td rowspan="3">**By Bus **</td>
+    <td>**By MRT**</td>
+    <td>**By Car**</td>
+  </tr>
+  <tr>
+    <td>Cecil Street Bus-stop (03151)
+57, 131, 167, 186, 400, 402, 533, 534, 535, 536, 549, 555, 560, 561, 563, 564, 565, 700, 761, 970, 971E</td>
+    <td>Tanjong Pagar MRT Station 
+(5-minute walk)
+Telok Ayer MRT Station 
+(10-minute walk)</td>
+<td>Parking is available at MND Complex Annexe A. The car park can be accessed from Maxwell Road and is located on the same level as the Gallery.</td>
+  </tr>
+</table>
