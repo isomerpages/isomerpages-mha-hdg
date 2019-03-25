@@ -39,6 +39,13 @@
   - text: Visit Us
     url: /visit-us/
     
+    # Resources Sections
+      resources-title: About
+      resources-subtitle: THE GALLERY
+      resources-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
+      resources-more-button: MORE ABOUT US
+      resources-more-button-url: /about-the-gallery/
+    
 # Info Sections
   info-sections:
     - section-title: About
