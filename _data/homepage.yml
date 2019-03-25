@@ -40,20 +40,22 @@
     url: /visit-us/
     
     
+   # Programmes Sections
+# To edit the programme details, go to programmes.yml
+ programmes-title:  About
+ programmes-subtitle: THE GALLERY
+ programmes-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
+ programmes-more-button: MORE ABOUT US
+ programmes-more-button-url: /about-the-gallery/
+    
 # Info Sections
-  info-sections:
-    - section-title: About
-      section-subtitle: THE GALLERY
-      section-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
-      section-more-button: MORE ABOUT US
-      section-more-button-url: /about-the-gallery/
+ # info-sections:
+  #  - section-title: About
+    #  section-subtitle: THE GALLERY
+  #    section-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
+    #  section-more-button: MORE ABOUT US
+   #   section-more-button-url: /about-the-gallery/
  
 
-# Programmes Sections
-# To edit the programme details, go to programmes.yml
-#programmes-title: hello programmes
-#programmes-subtitle: 
-#programmes-description: hello world
-#programmes-more-button: Hello World
-#programmes-more-button-url: /about-the-gallery/
+
     
