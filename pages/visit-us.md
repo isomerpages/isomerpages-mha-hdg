@@ -53,9 +53,9 @@ manner.
 **Getting to the Gallery**
 <table class="table-h">
   <tr>
-    <td rowspan="3">**By Bus **</td>
-    <td>**By MRT**</td>
-    <td>**By Car**</td>
+    <td>By Bus</td>
+    <td>By MRT</td>
+    <td>By Car</td>
   </tr>
   <tr>
     <td>Cecil Street Bus-stop (03151)
