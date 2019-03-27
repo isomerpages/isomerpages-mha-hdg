@@ -5,14 +5,14 @@
 ##################################
 
 # Agency logo
- agency-logo: /pages/images/HDGLogo.jpg
+agency-logo: /pages/images/HDGLogo.jpg
 
 # Hero Banner
- hero-title: Harmony in Diversity Gallery
- hero-subtitle: The Harmony in Diversity Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity.
- hero-banner: /pages/images/header_image_cropped2.JPG
+hero-title: Harmony in Diversity Gallery
+hero-subtitle: The Harmony in Diversity Gallery was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an apperciation of Singapore's rich religious diversity.
+hero-banner: /pages/images/header_image_cropped2.JPG
  
- key-highlights:
+key-highlights:
   - title: Journey of Faith
     url: /journey-of-faith/
     description: 
@@ -35,21 +35,15 @@
     external: 
 
 # Call to Action Button
- button:
+button:
   - text: Visit Us
     url: /visit-us/
     
-    
-   # Resources Sections
 
- resources-title:  About
- resources-subtitle: THE GALLERY
- resources-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
- resources-more-button: MORE ABOUT US
- resources-more-button-url: about-the-gallery/
-    
- 
- 
-
-
-    
+info-sections:
+  - section-title: About
+    section-subtitle: THE GALLERY
+    section-description: The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
+    section-more-button: MORE ABOUT US
+    section-more-button-url: about-the-gallery/
+    section-image-path: pages/images/G2 main pic.JPG # Please prepare and replace this with your desire image
