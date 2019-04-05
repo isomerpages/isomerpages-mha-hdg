@@ -6,29 +6,29 @@ breadcrumb: Terms of Use
 ---
 ### **TERMS OF USE**
 
-1. Thank you for visiting harmonyindiversitygallery.sg (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
+1. Thank you for visiting [harmonyindiversitygallery.sg](https://www.harmonyindiversitygallery.sg/) (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
-#### GENERAL
+   #### GENERAL
 
 2. These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-#### PROPRIETARY RIGHTS
+   #### PROPRIETARY RIGHTS
 
 3. This Site is the official Harmony in Diversity Gallery website. It is owned and operated by the Ministry of Home Affairs (MHA).
 
 4. The materials located on this Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MHA.
 
-#### PRIVACY STATEMENT
+   #### PRIVACY STATEMENT
 
 5. Click here to review this Site Privacy Statement.
 
-#### RESTRICTIONS ON USE OF CONTENTS
+   #### RESTRICTIONS ON USE OF CONTENTS
 
 6. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior permission of MHA. To use any parts of the Contents of this Site, the user must seek permission in writing, stating the Contents for use; intent of use; manner of use; time frame of use and identity of the user. MHA reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
 
 7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of MHA's copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of MHA.
 
-#### DISCLAIMER OF WARRANTIES AND LIABILITY
+   #### DISCLAIMER OF WARRANTIES AND LIABILITY
 
 8. The Contents of this Site are provided on an "as is" basis without warranties of any kind. Without prejudice to the foregoing, MHA does not make any representations or warranties:
 
@@ -40,16 +40,17 @@ breadcrumb: Terms of Use
 
    d. MHA shall not be responsible or held accountable in any way for any decision made or action taken by you or any third party in reliance upon the Contents of this Site.
 
-#### RIGHT OF ACCESS
+   #### RIGHT OF ACCESS
 
 9. MHA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
 
-#### LINKS "FROM" THIS SITE TO OTHER WEBSITES
+   #### LINKS "FROM" THIS SITE TO OTHER WEBSITES
+
 10. This Site contains hyperlinks to websites which are not maintained by MHA. MHA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
 
 11. Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
 
-#### LINKS "TO" THIS SITE FROM OTHER WEBSITES
+    #### LINKS "TO" THIS SITE FROM OTHER WEBSITES
 
 12. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
 
@@ -65,5 +66,5 @@ breadcrumb: Terms of Use
 
 18. MHA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 
-#### GOVERNING LAW
+    #### GOVERNING LAW
 19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.

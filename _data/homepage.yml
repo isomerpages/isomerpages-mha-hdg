@@ -6,6 +6,7 @@
 
 # Agency logo
 agency-logo: /pages/images/HDGLogo.jpg
+favicon: /images/favicon.ico #WARNING: BROKEN LINK!
 
 # Hero Banner
 hero-title: Harmony in Diversity Gallery
