@@ -12,7 +12,7 @@ In this final gallery, visitors are invited to reflect on the role we can play i
 > Gallery Highlights <br/>
 
 
-![Gallery 4 overview]({{"/pages/images/G4 highlights_v2.JPG" | absolute_url }})
+![Gallery 4 overview](pages/images/G4 highlights_v2.JPG)
 
 **Make a Difference:** <br/>
 What can you do to help strengthen Singapore's religious harmony? Make a commitment today and watch our Harmony Tree grow!
