@@ -30,16 +30,16 @@ availability
 
 ### **Visitor Policies & Gallery Etiquette**
 
-**Food & Beverage**
+**Food & Beverage**<br>
 Food and drink (including bottled water) are not permitted in the Gallery.
 
-**Security**
+**Security**<br>
 Bags may be subjected to inspection for security reasons.
 
-**Photography**
+**Photography**<br>
 No flash photography is permitted in the Gallery
 
-**Consideration for Others**
+**Consideration for Others**<br>
 Please speak in soft tones.
 Avoid running in the Gallery, and do not obstruct the
 passage of other visitors.
