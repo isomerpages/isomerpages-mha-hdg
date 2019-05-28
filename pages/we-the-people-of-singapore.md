@@ -9,7 +9,7 @@ breadcrumb: WE THE PEOPLE OF SINGAPORE
 
 In this final gallery, visitors are invited to reflect on the role we can play in helping to sustain a harmonious Singapore. Challenge yourself to make a personal commitment to preserving this precious legacy and share your pledge to inspire others.
 
-> Gallery Highlights <br/>
+<br> Gallery Highlights <br/>
 
 
 ![Gallery 4 overview](/pages/images/G4 highlights_v2.JPG)
