@@ -11,7 +11,8 @@ Annexe B
 7 Maxwell Road, #04-05/06, Singapore 069111
 (Above Amoy Street Food Centre)
 
-<iframe sandbox="allow-scripts" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.826654699133!2d103.84641648355924!3d1.2774758523796599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19129becdbd7%3A0xbf0b191341de5ab3!2s7+Maxwell+Rd%2C+Singapore+069111!5e0!3m2!1sen!2ssg!4v1470990857271" width="950" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+ [FIND DIRECTIONS](https://www.google.com.sg/maps/place/Harmony+in+Diversity+Gallery/@1.2791019,103.8439328,17z/data=!4m8!1m2!2m1!1s+Ministry+of+National+Development+(MND)+Building+Annexe+B+7+Maxwell+Road+Annexe+B+7+Maxwell+Road,+%2304-05%2F06,+Singapore+069111+(Above+Amoy+Street+Food+Centre)!3m4!1s0x31da191299684e2f:0x2fcd168718b3a1e9!8m2!3d1.2790878!4d103.8457286){:target="_blank"} 
+
 
 
 ### **Gallery Opening Hours**
