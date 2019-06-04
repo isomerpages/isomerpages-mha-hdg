@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/isomerpages/isomerpages-mha-hdg#readme",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.4.8"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
   }
 }
