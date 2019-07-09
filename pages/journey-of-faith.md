@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: GALLERY ONE: JOURNEY OF FAITH
+title: JOURNEY OF FAITH
 permalink: /journey-of-faith/
 breadcrumb: Journey of Faith
 
