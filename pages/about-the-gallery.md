@@ -6,8 +6,8 @@ breadcrumb: About the Gallery
 ---
  
 
+![About the Gallery](/pages/images/MHAlogo.png)
 
-<img src="/pages/images/MHAlogo.png" alt="About the Gallery" width="284" height="240">
 
 The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
 
