@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title:  MANY FAITHS ONE PEOPLE
+title:  "GALLERY THREE: MANY FAITHS ONE PEOPLE"
 permalink: /many-faiths-one-people/
 breadcrumb: MANY FAITHS ONE PEOPLE
 ---
