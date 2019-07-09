@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: WE, THE PEOPLE OF SINGAPORE
+title: "GALLERY FOUR: WE, THE PEOPLE OF SINGAPORE"
 permalink: /we-the-people-of-singapore/
 breadcrumb: WE THE PEOPLE OF SINGAPORE
 ---
