@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: "GALLERY TWO: WHAT IS COMMON"
+title: "GALLERY TWO: SEEKING WHAT IS COMMON"
 permalink: /seeking-what-is-common/
 breadcrumb: SEEKING WHAT IS COMMON
 ---
