@@ -60,8 +60,8 @@ manner.
   </tr>
   <tr>
     <td>Cecil Street Bus-stop (03151)<br>
-57, 131, 167, 186, 400, 402, 533, 534, 535, 536, 549, 555, 560, 561, 563, 564, 565, 700, 761, 970, 971E</td>
-    <td>Tanjong Pagar MRT Station (5-minute walk)
+57, 131, 167, 186, 400, 402, 533, <br>534, 535, 536, 549, 555, 560, 561, 563, 564, 565, 700, 761, 970, 971E</td>
+    <td>Tanjong Pagar MRT Station (5-minute walk)<br>
 Telok Ayer MRT Station (10-minute walk)</td>
 <td>Parking is available at MND Complex Annexe A. The car park can be accessed from Maxwell Road<br> and is located on the same level as the Gallery.</td>
   </tr>
