@@ -11,7 +11,8 @@ Tel: 6221 8942 <br>
 [MHA_HDG@mha.gov.sg](mailto:MHA_HDG@mha.gov.sg)
 
 #### **Address**
-Ministry of National Development (MND) Building Annexe B
+Ministry of National Development (MND) <br>
+Building Annexe B
 7 Maxwell Road, #04-05/06, Singapore 069111
 (Above Amoy Street Food Centre)
 
