@@ -6,8 +6,7 @@ title: Visit Us
 ---
 
 ### **Address**
-Ministry of National Development (MND)<br>
-Building Annexe B <br>
+Ministry of National Development (MND) Building Annexe B <br>
 7 Maxwell Road, #04-05/06, Singapore 069111<br>
 (Above Amoy Street Food Centre)<br>
 Tel: 62218942
