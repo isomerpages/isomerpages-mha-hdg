@@ -8,8 +8,8 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title: 
-    address: "Ministry of National Development (MND) Building Annexe B <br>7 Maxwell Road, #04-05/06, Singapore 069111<br>(Above Amoy Street Food Centre)"
+  - title: Ministry of National Development (MND) Building Annexe B
+    address: "7 Maxwell Road, #04-05/06, Singapore 069111<br>(Above Amoy Street Food Centre)"
    find-directions: https://www.google.com.sg/maps/place/Harmony+in+Diversity+Gallery/@1.2791019,103.8439328,17z/data=!4m8!1m2!2m1!1s+Ministry+of+National+Development+(MND)+Building+Annexe+B+7+Maxwell+Road+Annexe+B+7+Maxwell+Road,+%2304-05%2F06,+Singapore+069111+(Above+Amoy+Street+Food+Centre)!3m4!1s0x31da191299684e2f:0x2fcd168718b3a1e9!8m2!3d1.2790878!4d103.8457286
 
 # Contact Us
