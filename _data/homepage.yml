@@ -49,7 +49,7 @@ info-sections:
     section-more-button-url: about-the-gallery/
     section-image-path: pages/images/MHALogo_home.png # Please prepare and replace this with your desire image
 
-resources-title:
-#resources-subtitle: Be in the know
+resources-title: Back to top
+resources-subtitle: Be in the know
 resources-more-button: back to top
-resources-more-button-url: <a href="#main-content"></a>
+resources-more-button-url: #main-content
