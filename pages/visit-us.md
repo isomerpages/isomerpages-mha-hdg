@@ -43,7 +43,6 @@ No flash photography is permitted in the Gallery
 Please speak in soft tones.<br>
 Avoid running in the Gallery, and do not obstruct the
 passage of other visitors.
-
 Our staff have the right to work in a safe
 environment free from violence, abuse or 
 threatening behaviour. The Gallery reserves the right
